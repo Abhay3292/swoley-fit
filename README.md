@@ -1,2 +1,2 @@
-# swifty-fit
+# swoley-fit app
 
